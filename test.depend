@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686364794 source:c:\users\spcah\desktop\c++\test\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<limits>
+	<algorithm>
+	<cctype>
+

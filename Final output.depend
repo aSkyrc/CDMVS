@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686461966 source:c:\users\spcah\desktop\c++\fitness management system\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<limits>
+	<algorithm>
+	<cctype>
+
